@@ -21,10 +21,10 @@
 
 ## 🔗 Start here
 - Website: **https://www.easydailytools.com/**
-- Popular tools:  
-  - Date Difference: https://www.easydailytools.com/en/date-difference-calculator  
-  - Workday Calculator: https://www.easydailytools.com/en/workday-calculator  
+- Popular tools:
   - Shoe Size Converter: https://www.easydailytools.com/en/shoe-size-converter
+  - Chinese Zodiac Calculator: https://www.easydailytools.com/en/chinese-zodiac  
+  - Days Between Dates Calculator: https://www.easydailytools.com/en/days-between-dates-calculator
 
 ---
 
