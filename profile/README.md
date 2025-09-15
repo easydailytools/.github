@@ -20,11 +20,11 @@
 ---
 
 ## 🔗 Start here
-- Website: **https://www.easydailytools.com/**
+- Website: **[Easy Daily Tools](https://www.easydailytools.com/)**
 - Popular tools:
-  - Shoe Size Converter: https://www.easydailytools.com/en/shoe-size-converter
-  - Chinese Zodiac Calculator: https://www.easydailytools.com/en/chinese-zodiac  
-  - Days Between Dates Calculator: https://www.easydailytools.com/en/days-between-dates-calculator
+  - [Shoe Size Converter](https://www.easydailytools.com/en/shoe-size-converter) 
+  - [Chinese Zodiac Calculator](https://www.easydailytools.com/en/chinese-zodiac)  
+  - [Days Between Dates Calculator](https://www.easydailytools.com/en/days-between-dates-calculator)
 
 ---
 
