@@ -5,11 +5,11 @@
 ---
 
 ## ✨ What we build
-- **Date & Time Calculators**  
-  Date difference (exclude weekends/holidays), workday planner (40+ countries), add/subtract dates, days-between, frequency planner.
-
 - **Lifestyle & Shopping**  
   Universal **Shoe Size Converter** with brand-aware charts (Nike, Adidas, New Balance, Puma, Skechers, ANTA), cross-brand conversion & multi-brand comparison.
+
+- **Date & Time Calculators**  
+  Date difference (exclude weekends/holidays), workday planner (40+ countries), add/subtract dates, days-between, frequency planner.
 
 - **Money Split & Logistics**  
   **Bill Splitter** (tip/tax/extra fees) and **Carpool Cost Splitter** (fuel, tolls, parking).
