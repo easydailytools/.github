@@ -34,8 +34,6 @@
 
 👉 Español: https://www.easydailytools.com/es
 
-👉 Português: https://www.easydailytools.com/pt
-
 ---
 
 ## 💬 Feedback & Ideas
